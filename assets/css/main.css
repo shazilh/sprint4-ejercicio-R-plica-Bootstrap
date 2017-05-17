@@ -10,5 +10,28 @@
 .espacioAbajoGrande{
     margin-bottom: 50px;
 }
+.labelTamGrande{
+    font-size: 30px;
+}
+.labelTamSemiGrande{
+    font-size: 25px;
+}
+.labelTamMediano{
+    font-size: 20px;
+}
+.labelTamChico{
+    font-size: 15px;
+}
+.labelTamExtraChico{
+    font-size: 10px;
+}
+.labelTamExtraChico2{
+    font-size: 9px;
+}
+
+
+
+
+
 
 
